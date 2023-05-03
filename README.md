@@ -1,7 +1,6 @@
 # RocketShoes
 ![preview](./assets/images/desktop.png)
-![preview](./assets/images/mobile.png)
-![preview](./assets/images/menu-mobile.png)
+![preview](./assets/images/mobile.png)  ![preview](./assets/images/menu-mobile.png)
 
 ## Projeto 💻
 Projeto de um desafio da Rocketseat desenvolver uma homepage para uma marca de café.
